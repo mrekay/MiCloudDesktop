@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MiCloudDesktop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="application_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://account.xiaomi.com/fe/service/login/password?_snsNone=true&amp;_locale=tr_TR&amp;sid=i.mi.com&amp;qs=%253Fcallback%253Dhttps%25253A%25252F%25252Fi.mi.com%25252Fsts%25253Fsign%25253DmF32YtfY7XReThOa0pZzXhZXJ0U%2525253D%252526followup%25253Dhttps%2525253A%2525252F%2525252Fi.mi.com%2525252F%252526sid%25253Di.mi.com%2526sid%253Di.mi.com%2526_locale%253Dtr_TR%2526_snsNone%253Dtrue&amp;callback=https%3A%2F%2Fi.mi.com%2Fsts%3Fsign%3DmF32YtfY7XReThOa0pZzXhZXJ0U%253D%26followup%3Dhttps%253A%252F%252Fi.mi.com%252F%26sid%3Di.mi.com&amp;_sign=pTZO8SwlOUCgrxb0p5Kaut%2BsEzM%3D&amp;serviceParam=%7B%22checkSafePhone%22%3Afalse%2C%22checkSafeAddress%22%3Afalse%2C%22lsrp_score%22%3A0.0%7D&amp;showActiveX=false&amp;theme=&amp;needTheme=false&amp;bizDeviceType=</Value>
+    </Setting>
+    <Setting Name="account_info" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

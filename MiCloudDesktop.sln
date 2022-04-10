@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCloudDesktop", "MiCloudDesktop\MiCloudDesktop.csproj", "{D67B485B-6BE6-4241-B430-55D1DBC43992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpController", "CefsharpController\CefsharpController.csproj", "{8784A40A-2C04-4D63-9BE1-E732D30E3664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67B485B-6BE6-4241-B430-55D1DBC43992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67B485B-6BE6-4241-B430-55D1DBC43992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67B485B-6BE6-4241-B430-55D1DBC43992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67B485B-6BE6-4241-B430-55D1DBC43992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8784A40A-2C04-4D63-9BE1-E732D30E3664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8784A40A-2C04-4D63-9BE1-E732D30E3664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8784A40A-2C04-4D63-9BE1-E732D30E3664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8784A40A-2C04-4D63-9BE1-E732D30E3664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E24183E-C22C-47D2-8CEA-5AB3ECA5A3AC}
+	EndGlobalSection
+EndGlobal
